@@ -13,3 +13,5 @@ result += (count)*first
 result += (m-count) * second
 
 print(result)
+
+#commit check
